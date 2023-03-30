@@ -19,6 +19,7 @@ namespace BasitToplamaApp
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //basit toplama
            int sayi1 = Convert.ToInt32(textBox1.Text);
            int sayi2 = Convert.ToInt32(textBox2.Text);
             int sonuc = sayi1 + sayi2;
