@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stringformatlama", "Stringf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringformatlamaFormApp", "StringformatlamaFormApp\StringformatlamaFormApp.csproj", "{A811AD3A-4C44-4107-9739-15FC7D7B26FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasitTextboxApp", "BasitTextboxApp\BasitTextboxApp.csproj", "{BAD8F239-3910-4836-B17D-18BDF0E1EAE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A811AD3A-4C44-4107-9739-15FC7D7B26FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A811AD3A-4C44-4107-9739-15FC7D7B26FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A811AD3A-4C44-4107-9739-15FC7D7B26FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAD8F239-3910-4836-B17D-18BDF0E1EAE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD8F239-3910-4836-B17D-18BDF0E1EAE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD8F239-3910-4836-B17D-18BDF0E1EAE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD8F239-3910-4836-B17D-18BDF0E1EAE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
