@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringformatlamaFormApp", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasitTextboxApp", "BasitTextboxApp\BasitTextboxApp.csproj", "{BAD8F239-3910-4836-B17D-18BDF0E1EAE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasitToplamaApp", "BasitToplamaApp\BasitToplamaApp.csproj", "{78219C90-6127-416E-84A3-A62D7DC1FD90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasitteksayiciftsayiApp", "BasitteksayiciftsayiApp\BasitteksayiciftsayiApp.csproj", "{CD8F2140-1CFD-4655-89CB-6DE301AE4269}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{BAD8F239-3910-4836-B17D-18BDF0E1EAE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAD8F239-3910-4836-B17D-18BDF0E1EAE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAD8F239-3910-4836-B17D-18BDF0E1EAE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78219C90-6127-416E-84A3-A62D7DC1FD90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78219C90-6127-416E-84A3-A62D7DC1FD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78219C90-6127-416E-84A3-A62D7DC1FD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78219C90-6127-416E-84A3-A62D7DC1FD90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD8F2140-1CFD-4655-89CB-6DE301AE4269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8F2140-1CFD-4655-89CB-6DE301AE4269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8F2140-1CFD-4655-89CB-6DE301AE4269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8F2140-1CFD-4655-89CB-6DE301AE4269}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
