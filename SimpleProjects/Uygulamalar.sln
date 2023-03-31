@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Top-Level Statements", "Top-Level Statements\Top-Level Statements.csproj", "{73E2646B-391A-41BE-9802-68964785BFFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stringformatlama", "Stringformatlama\Stringformatlama.csproj", "{E0ABBA20-00CD-4213-A48C-EA15F04278B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stringformatlama", "Stringformatlama\Stringformatlama.csproj", "{E0ABBA20-00CD-4213-A48C-EA15F04278B4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringformatlamaFormApp", "StringformatlamaFormApp\StringformatlamaFormApp.csproj", "{A811AD3A-4C44-4107-9739-15FC7D7B26FF}"
 EndProject
@@ -18,6 +18,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasitToplamaApp", "BasitToplamaApp\BasitToplamaApp.csproj", "{78219C90-6127-416E-84A3-A62D7DC1FD90}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasitteksayiciftsayiApp", "BasitteksayiciftsayiApp\BasitteksayiciftsayiApp.csproj", "{CD8F2140-1CFD-4655-89CB-6DE301AE4269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İkisayi-ile-islemyapan-basitform-uygulamasi", "İkisayi-ile-islemyapan-basitform-uygulamasi\İkisayi-ile-islemyapan-basitform-uygulamasi.csproj", "{C5D2766A-509D-4FD3-9C83-7FFCB8F2D620}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{CD8F2140-1CFD-4655-89CB-6DE301AE4269}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD8F2140-1CFD-4655-89CB-6DE301AE4269}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD8F2140-1CFD-4655-89CB-6DE301AE4269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5D2766A-509D-4FD3-9C83-7FFCB8F2D620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D2766A-509D-4FD3-9C83-7FFCB8F2D620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D2766A-509D-4FD3-9C83-7FFCB8F2D620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D2766A-509D-4FD3-9C83-7FFCB8F2D620}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
