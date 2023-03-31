@@ -24,21 +24,35 @@ namespace İkisayi_ile_islemyapan_basitform_uygulamasi
 
         private void button1_Click(object sender, EventArgs e)
         {
-            double sayi1 = Convert.ToDouble(textBox1.Text); 
-            double sayi2 = Convert.ToDouble(textBox2.Text);
-            double sonuc = 0;
-
-            if(comboBox1.Text == "Topla")
+            try
             {
-                sonuc = sayi1 + sayi2;
+                double sayi1 = Convert.ToDouble(textBox1.Text);
+                double sayi2 = Convert.ToDouble(textBox2.Text);
+                double sonuc = 0;
 
-            }else if(comboBox1.Text == "Çıkar") 
-                sonuc = sayi1- sayi2;
-            else if (comboBox1.Text == "Böl")
-                sonuc = sayi1 / sayi2;
-            else if(comboBox1.Text == "Çarp")
-                sonuc = sayi1 * sayi2;
-            label5.Text = sonuc.ToString();
+                if (comboBox1.Text == "Topla")
+                {
+                    sonuc = sayi1 + sayi2;
+
+                }
+                else if (comboBox1.Text == "Çıkar")
+                    sonuc = sayi1 - sayi2;
+                else if (comboBox1.Text == "Böl")
+                    sonuc = sayi1 / sayi2;
+                else if (comboBox1.Text == "Çarp")
+                    sonuc = sayi1 * sayi2;
+                label5.Text = sonuc.ToString();
+            }
+            catch (Exception e1)
+            {
+
+                label5.Text = e1.Message;
+                
+            }finally {
+
+                label5.Text += "(Kod tamamlandı.)";
+
+            }
 
         }
     }

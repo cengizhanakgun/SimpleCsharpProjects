@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasitteksayiciftsayiApp", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İkisayi-ile-islemyapan-basitform-uygulamasi", "İkisayi-ile-islemyapan-basitform-uygulamasi\İkisayi-ile-islemyapan-basitform-uygulamasi.csproj", "{C5D2766A-509D-4FD3-9C83-7FFCB8F2D620}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sayi-arttirma-uygulamasi", "Sayi-arttirma-uygulamasi\Sayi-arttirma-uygulamasi.csproj", "{AE31477A-1EC8-45F6-9E11-377AA1E94E1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{C5D2766A-509D-4FD3-9C83-7FFCB8F2D620}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5D2766A-509D-4FD3-9C83-7FFCB8F2D620}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5D2766A-509D-4FD3-9C83-7FFCB8F2D620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE31477A-1EC8-45F6-9E11-377AA1E94E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE31477A-1EC8-45F6-9E11-377AA1E94E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE31477A-1EC8-45F6-9E11-377AA1E94E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE31477A-1EC8-45F6-9E11-377AA1E94E1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
