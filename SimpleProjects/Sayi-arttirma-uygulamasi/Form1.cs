@@ -23,5 +23,10 @@ namespace Sayi_arttirma_uygulamasi
             sayi = sayi + 1;    
             label1.Text = sayi.ToString();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
