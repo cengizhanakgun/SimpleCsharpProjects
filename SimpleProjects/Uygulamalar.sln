@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sayi-arttirma-uygulamasi", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arttir-azalt-uygulamasi", "arttir-azalt-uygulamasi\arttir-azalt-uygulamasi.csproj", "{71D9A508-E6E7-4C45-A495-0292467C141F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "birle-on-arasindaki-sayilari-combox'a-doldurma", "birle-on-arasindaki-sayilari-combox'a-doldurma\birle-on-arasindaki-sayilari-combox'a-doldurma.csproj", "{843B5940-9756-48E7-BE15-8E63F64F115F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{71D9A508-E6E7-4C45-A495-0292467C141F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71D9A508-E6E7-4C45-A495-0292467C141F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71D9A508-E6E7-4C45-A495-0292467C141F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{843B5940-9756-48E7-BE15-8E63F64F115F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{843B5940-9756-48E7-BE15-8E63F64F115F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{843B5940-9756-48E7-BE15-8E63F64F115F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{843B5940-9756-48E7-BE15-8E63F64F115F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
