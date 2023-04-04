@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birle-20arasinda-sayi-uretm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ondalikli-sayi-random-uretip-listbox'a-ekleme", "Ondalikli-sayi-random-uretip-listbox'a-ekleme\Ondalikli-sayi-random-uretip-listbox'a-ekleme.csproj", "{B80F453F-55D6-4109-ACAB-43942A644AA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rastgele-isim-secen-uygulama", "Rastgele-isim-secen-uygulama\Rastgele-isim-secen-uygulama.csproj", "{AFA5E54D-D565-4E09-983A-D8F0FF16B247}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{B80F453F-55D6-4109-ACAB-43942A644AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B80F453F-55D6-4109-ACAB-43942A644AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B80F453F-55D6-4109-ACAB-43942A644AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFA5E54D-D565-4E09-983A-D8F0FF16B247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA5E54D-D565-4E09-983A-D8F0FF16B247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA5E54D-D565-4E09-983A-D8F0FF16B247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA5E54D-D565-4E09-983A-D8F0FF16B247}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
