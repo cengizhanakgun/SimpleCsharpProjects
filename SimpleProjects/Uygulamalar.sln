@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "birle-on-arasindaki-sayilar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birle-20arasinda-sayi-uretme", "Birle-20arasinda-sayi-uretme\Birle-20arasinda-sayi-uretme.csproj", "{1BF98150-B43F-47A5-BB04-22221361296D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ondalikli-sayi-random-uretip-listbox'a-ekleme", "Ondalikli-sayi-random-uretip-listbox'a-ekleme\Ondalikli-sayi-random-uretip-listbox'a-ekleme.csproj", "{B80F453F-55D6-4109-ACAB-43942A644AA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{1BF98150-B43F-47A5-BB04-22221361296D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BF98150-B43F-47A5-BB04-22221361296D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BF98150-B43F-47A5-BB04-22221361296D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B80F453F-55D6-4109-ACAB-43942A644AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80F453F-55D6-4109-ACAB-43942A644AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80F453F-55D6-4109-ACAB-43942A644AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80F453F-55D6-4109-ACAB-43942A644AA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
