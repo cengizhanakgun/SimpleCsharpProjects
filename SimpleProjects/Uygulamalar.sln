@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dongu-kullanimi-ile-ilgili-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uc-textbox-icerisindeki-sayilari-karsilastirma", "Uc-textbox-icerisindeki-sayilari-karsilastirma\Uc-textbox-icerisindeki-sayilari-karsilastirma.csproj", "{08C1659B-2F85-4561-8696-BD1DAB1CF4CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sayıları-sıralama", "Sayıları-sıralama\Sayıları-sıralama.csproj", "{EA2285D0-514E-4165-B141-619ABE900B9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "faktoriyelhesaplama", "faktoriyelhesaplama\faktoriyelhesaplama.csproj", "{8051CD87-BA20-4F23-B37D-0C4894F60BEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{08C1659B-2F85-4561-8696-BD1DAB1CF4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08C1659B-2F85-4561-8696-BD1DAB1CF4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08C1659B-2F85-4561-8696-BD1DAB1CF4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA2285D0-514E-4165-B141-619ABE900B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2285D0-514E-4165-B141-619ABE900B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2285D0-514E-4165-B141-619ABE900B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2285D0-514E-4165-B141-619ABE900B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8051CD87-BA20-4F23-B37D-0C4894F60BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8051CD87-BA20-4F23-B37D-0C4894F60BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8051CD87-BA20-4F23-B37D-0C4894F60BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8051CD87-BA20-4F23-B37D-0C4894F60BEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
