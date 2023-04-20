@@ -54,11 +54,10 @@ namespace tekrarsiz_rastgele_sayi_uretme
                         listBox1.Items.Add(sayi.ToString());
 
                     }
-                    if (uretilecekSayiAdedi == 0)
+                     if (uretilecekSayiAdedi == 0)
                     {
                         MessageBox.Show("Üretilecek sayı adedi sıfır olamaz.");
-                        Application.Restart();
-
+                       
                     }
 
 
@@ -69,7 +68,7 @@ namespace tekrarsiz_rastgele_sayi_uretme
             }catch (Exception ex)
             {
 
-                MessageBox.Show(ex.Message);
+              MessageBox.Show(ex.Message);
               Application.Restart();
             }
     }
